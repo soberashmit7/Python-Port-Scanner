@@ -52,13 +52,9 @@ This project scans open ports on a target IP address or website, displays live s
 
 ## Screenshots
 
-Add screenshots here after uploading images.
+## Screenshots
 
-Example:
-
-```markdown
-![Scanner Screenshot](screenshot.png)
-```
+![Scanner Screenshot](scanner.png)
 
 ---
 
